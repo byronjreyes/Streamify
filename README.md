@@ -3,7 +3,7 @@
 **Streamify** is a modern streaming platform that allows users to explore movies and TV series with a sleek, responsive design. It offers real-time data from the TMDB API and embedded video streaming from vidsrc.me, providing users with an immersive entertainment experience.
 
 ## 🚀 **Live Demo**
-[Streamify Live](https://streamifyph.netlify.app/)
+[Streamify Live](https://streamifyph.vercel.app/)
 
 ## 📸 **Preview**
 ![{47C50C56-771D-4577-94EE-9887A2B79CE2}](https://github.com/user-attachments/assets/9226839b-3221-4864-b98f-95a7684c4416)
